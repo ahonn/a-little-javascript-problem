@@ -1,6 +1,6 @@
 ## A little JavaScript problem
 
-Sulution of http://lisperator.net/blog/a-little-javascript-problem
+Solution of http://lisperator.net/blog/a-little-javascript-problem
 
 ### Problem
 In fact, this isn't about JavaScript, but that's the context I've discussed it in. I encourage you to think about it in more programming languages. (are there languages in which this can't be done?)
